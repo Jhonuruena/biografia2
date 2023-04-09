@@ -1,0 +1,23 @@
+aside{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    background-color: gainsboro;
+}
+
+main{
+    width: 75%;
+    background-color: gainsboro;
+    
+
+}
+
+.contenedor{
+    display: flex;
+}
+
+footer{
+    text-align: center;
+    background-color: ghostwhite;
+
+}
